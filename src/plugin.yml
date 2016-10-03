@@ -1,0 +1,7 @@
+name: skWhitelist
+description: An addon for whitelist stuff in minecraft
+author: tim740
+website: https://tim740.github.io/
+main: uk.tim740.skWhitelist.skWhitelist
+version: 0.1.0
+depend: [Skript]
